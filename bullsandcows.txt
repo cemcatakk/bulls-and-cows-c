@@ -1,0 +1,57 @@
+-------------------------
+Saved Game:
+ Index: 1
+Secret: 5782
+Attemps: 1
+Result: 1
+--Attemps--
+->5782
+------------------------
+-------------------------
+Saved Game:
+ Index: 0
+Secret: 3570
+Attemps: 1
+Result: 1
+--Attemps--
+->3570
+------------------------
+-------------------------
+Saved Game:
+ Index: 0
+Secret: 9273
+Attemps: 1
+Result: 1
+--Attemps--
+->9273
+------------------------
+-------------------------
+Saved Game:
+ Index: 1
+Secret: 650243
+Attemps: 1
+Result: 1
+--Attemps--
+->650243
+------------------------
+-------------------------
+Saved Game:
+ Index: 2
+Secret: 578610439
+Attemps: 1
+Result: 1
+--Attemps--
+->578610439
+------------------------
+-------------------------
+Saved Game:
+ Index: 0
+Secret: 6984
+Attemps: 4
+Result: 1
+--Attemps--
+->5421
+->6652
+->4746
+->6984
+------------------------
